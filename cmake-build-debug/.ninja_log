@@ -1,0 +1,8 @@
+# ninja log v6
+914	949	1747881375504687057	sdl_game	a7686bfb6fd2e4a8
+167	170	1747881374757676857	CMakeFiles/sdl_game.dir/main.cpp.o.modmap	6b3eb91334b5d470
+170	914	1747881374760780548	CMakeFiles/sdl_game.dir/main.cpp.o	d287b44423b40ce8
+167	170	1747881374757676857	/home/nathan/CLionProjects/sdl-game/cmake-build-debug/CMakeFiles/sdl_game.dir/CXXModules.json	6b3eb91334b5d470
+167	170	1747881374757676857	CMakeFiles/sdl_game.dir/CXX.dd	6b3eb91334b5d470
+1	167	1747881374591674590	CMakeFiles/sdl_game.dir/main.cpp.o.ddi	a42f7cda38ed4c87
+0	12	1747881431984201076	build.ninja	51cd8a90ff429615
